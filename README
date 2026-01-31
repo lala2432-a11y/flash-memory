@@ -1,59 +1,61 @@
-Memory Flash v1.0 운영 정책
+Memory Flash v1.0 Operation Policy
 
-🎯 목표
+🎯 Goal
 
-심사 통과 안정성 확보 + 초반부터 수익 발생 + 바이럴 가능 구조 확보
+Ensure App Store approval stability + generate revenue from early stage + build viral growth structure.
 
 ⸻
 
-1️⃣ ASO / 마케팅 포지션
-	•	앱 이름은 과도한 자극 단어 사용하지 않음
-	•	설명, 스크린샷, 프로모션 텍스트에는
+1️⃣ ASO / Marketing Positioning
+	•	App name must avoid overly aggressive or misleading terms.
+	•	In description, screenshots, and promo text, the following expressions are allowed:
 	•	“Brain Age style”
 	•	“Memory challenge”
 	•	“How old is your brain?”
-같은 문구 사용 가능
-	•	IQ를 공식 측정처럼 표현하는 문구는 사용하지 않음
-	•	포지션은 “엔터테인먼트 게임형 기억력 테스트”
+	•	Do not present the game as an official IQ measurement tool.
+	•	Positioning: Entertainment game-style memory challenge
 
 ⸻
 
-2️⃣ 게임 재미 설계 (감정 유발 구조)
-	•	기본 난이도는 점진 상승
-	•	레벨 6~8 구간에 1회 난이도 스파이크 삽입
-	•	실패 시 “Almost!”, “So close!” 같은 피드백 표시
-	•	실패 후 즉시 재도전 가능한 빠른 흐름 유지
+2️⃣ Game Fun Design (Emotion Trigger Structure)
+	•	Base difficulty increases gradually.
+	•	Insert one difficulty spike between Level 6–8 to create emotional tension.
+	•	Show feedback like “Almost!”, “So close!” on failure.
+	•	Maintain fast retry flow after failure to keep engagement high.
 
 ⸻
 
-3️⃣ 광고 수익 구조 (ROI 중심)
-	•	첫 1~2판은 광고 없음
-	•	이후 2~3판마다 전면 광고 표시
-	•	실패 직후 보상형 광고 먼저 제시 (“한 번 더 기회”)
-	•	목표는 ARPDAU 상승과 유지율 동시 확보
+3️⃣ Ad Monetization Structure (ROI Focused)
+	•	No ads during the first 2 plays (immersion phase).
+	•	From the 3rd play onward:
+	•	Show interstitial ads every 2–3 games.
+	•	Offer rewarded ad first after failure (“One more chance”).
+	•	Goal: Increase ARPDAU while protecting retention in early session.
 
 ⸻
 
-4️⃣ 공유 기능 (바이럴 구조)
-	•	v1.0에 결과 화면에 “Share Score” 버튼 추가
-	•	시스템 공유 시트 사용 + 자동 캡션 삽입
-	•	v1.1에서 점수 이미지 템플릿 자동 생성 기능 추가 예정
+4️⃣ Sharing Feature (Viral Structure)
+	•	v1.0 includes a “Share Score” button on the result screen.
+	•	Use system share sheet with auto caption text.
+	•	v1.1 planned update:
+	•	Auto-generated score image template for social sharing.
 
 ⸻
 
-5️⃣ 출시 전략
-	•	v1.0: 기본 게임, 퍼센트 결과, 광고 구조, 공유 버튼 포함
-	•	v1.1: 이미지 공유 템플릿 + 하드모드 추가
-	•	빠르게 출시 후 데이터 기반으로 자극 수위 조정
+5️⃣ Release Strategy
+	•	v1.0 includes:
+	•	Core gameplay
+	•	Percentile-based result screen
+	•	Ad structure
+	•	Share button
+	•	v1.1 includes:
+	•	Image share template
+	•	Hard mode
+	•	Launch fast, then adjust stimulation level based on user data.
 
 ⸻
 
-🔥 운영 원칙
+🔥 Operation Principle
 
-교과서식 설계가 아니라
-“수익을 위해 계산된 자극” 전략으로 운영한다.
-
-⸻
-
-이거 그대로 복사해서
-👉 GitHub README.md / 노션 / 문서에 붙여넣으면 됨
+This product is not designed with a textbook approach.
+It is operated using a calculated stimulation strategy for revenue optimization.
